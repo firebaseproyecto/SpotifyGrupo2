@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpotifyGrupo2</string>
+    <string name="title_home">Canciones</string>
+    <string name="title_dashboard">Géneros</string>
+    <string name="title_notifications">Artistas</string>
+    <string name = "banners_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
